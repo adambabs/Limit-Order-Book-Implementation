@@ -1,4 +1,4 @@
-# Limit-Order-Book-Implementation
+# Limit Order Book Implementation
 #### R implementation of a limit order book
 
 ## Code involves 6 main functions:
