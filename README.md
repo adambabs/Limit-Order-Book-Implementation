@@ -1,7 +1,7 @@
 # Limit Order Book Implementation
 #### R implementation of a limit order book
 
-## Code involves 6 main functions:
+## Code contains 7 main functions:
 
 ### 1. book.total_volume()
 Function calculating the total volume of the asking and bidding orders.
@@ -21,4 +21,7 @@ Function calculating the spread between the best available buying and selling or
 Function reducing the orders sizes.
 
 ### 6. book.add()
-Function adding orders to the book size
+Function adding orders to the book size.
+
+### 7. book.sort()
+Function sorting orders in the book by their price.
